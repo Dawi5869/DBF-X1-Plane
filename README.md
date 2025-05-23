@@ -21,3 +21,7 @@ My job for this competition was to work with our aerodynamics team lead to assem
 - AIAA 2024-2025 Competition Rules: https://aiaa.org/wp-content/uploads/2024/12/dbf-rules-2025.pdf
 - DBF Website: https://www.coloradodbf.com/
 - INAV Documentation: https://github.com/iNavFlight/inav
+
+
+## 📬 Contact
+Reach out at dawi5869@colorado.edu
