@@ -16,10 +16,8 @@ My job for this competition was to work with our aerodynamics team lead to assem
 - **SpeedyBee Flight controller** - The flight controller our team chose to use for our glider.
 - **Arduino** - Used for testing circuit integration with the flight controller.
 
-
-
-<br />
-<br />
-<br />
-<br />
-add useful links section
+## 🔗 Useful Links
+- Flight Controller Documentation: https://store-fhxxhuiq8q.mybigcommerce.com/product_images/img_SpeedyBee_F405_WING_APP/SpeedyBee_F405_WING_APP_Manual_V1.1-EN.pdf
+- AIAA 2024-2025 Competition Rules: https://aiaa.org/wp-content/uploads/2024/12/dbf-rules-2025.pdf
+- DBF Website: https://www.coloradodbf.com/
+- INAV Documentation: https://github.com/iNavFlight/inav
